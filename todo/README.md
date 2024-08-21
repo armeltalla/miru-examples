@@ -1,6 +1,6 @@
 *This is a sample application pulled from awesome-compose on github. It has been slightly edited to allow for an OTA deployment using a service like Miru.*
 
-# Push to Armel's Device pt. 1
+# Not like us LMAOOOOO
 
 ## Compose sample application
 ### React application with a NodeJS backend and a MongoDB database
