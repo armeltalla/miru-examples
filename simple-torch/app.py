@@ -15,7 +15,7 @@ def main():
         # check if cuda is available
         print("Is cuda available? :", end="")
         if torch.cuda.is_available():
-            print("Yes")
+            print("Hello AI world")
         else:
             print("No")
 
