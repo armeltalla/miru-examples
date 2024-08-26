@@ -28,7 +28,7 @@ CMD ["npm", "start"]
 FROM development as dev-envs
 RUN <<EOF
 apt-get update
-apt-get install -y --no-install-recommends gi
+apt-get install -y --no-install-recommends git
 EOF
 
 RUN <<EOF
